@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/JonnyBurger/remotion-logo/raw/main/withtitle/element-0.png" alt="Remotion" width="400px">
+    <img src="https://github.com/JonnyBurger/remotion-logo/raw/main/withtitle/element-0.png" alt="Remotion" width="300px">
 </h1>
 
 <p align="center">	
